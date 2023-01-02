@@ -37,11 +37,11 @@ builder.addNetworkExtrasBundle(type.equals("banner") ? AdmobCustomEventBanner.cl
 ### Step 2: Configure mediation settings for your AdMob ad unit
 You need to add Reklamup placements provided by the Reklamup team to the mediation configuration as waterfall ad source for your ad unit.
 
-![enter image description here](https://github.com/reklamuprepo/reklamup-admob-adapter/raw/main/assets/waterfall_ad_source.png)
+![enter image description here](https://github.com/reklamupdev/reklamup-admob-adapter/raw/main/assets/waterfall_ad_source.png)
 
 You can add each placement as **custom event**  as shown in the figure below.
 
-![enter image description here](https://github.com/reklamuprepo/reklamup-admob-adapter/raw/main/assets/custom_event.png)
+![enter image description here](https://github.com/reklamupdev/reklamup-admob-adapter/raw/main/assets/custom_event.png)
 
 **Custom Event screen parameters**<br />
 **Class Name** : You can use the following parameters depending on the ad unit format of the mediation group.
