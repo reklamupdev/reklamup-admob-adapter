@@ -5,7 +5,7 @@
 Add the following implementation dependency with the latest version of the adapter in the app-level  `build.gradle`  file:
 
 repositories {<br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;maven {url "https://github.com/reklamuprepo/reklamup-admob-adapter/raw/main/maven2" }<br />
+&nbsp;&nbsp;&nbsp;&nbsp;maven {url "https://github.com/reklamupdev/reklamup-admob-adapter/raw/main/maven2" }<br />
 }  
   
 // ...<br />
