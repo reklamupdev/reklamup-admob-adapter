@@ -77,7 +77,7 @@ You can add each placement as **custom event**  as shown in the figure below.
 ## FAQ
 
 You can send email. [ReklamUP](mailto:dev@reklamup.com?subject=Reklamup%20Admob%20Adapter%20Android)<br/>
-Click <a href="https://github.com/reklamupdev/reklamup-admob-adapter.ios" target="_blank">here</a> for IOS documententation.
+Click <a href="https://github.com/reklamupdev/reklamup-admob-adapter.ios">here</a> for IOS documentation.
 
 ## Credits
 
