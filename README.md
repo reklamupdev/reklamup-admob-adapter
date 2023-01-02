@@ -1,7 +1,9 @@
 
-# Integrate Reklamup with Admob Mediation - ANDROID
+# Integrate Reklamup with Admob Mediation
 
-## Step 1: Import adapter into your app/game
+## ANDROID
+### Step 1: Import adapter into your app/game
+
 Add the following implementation dependency with the latest version of the adapter in the app-level  `build.gradle`  file:
 
 repositories {<br /> 
@@ -32,7 +34,7 @@ builder.addNetworkExtrasBundle(type.equals("banner") ? AdmobCustomEventBanner.cl
         extras);
 
 ```
-## Step 2: Configure mediation settings for your AdMob ad unit
+### Step 2: Configure mediation settings for your AdMob ad unit
 You need to add Reklamup placements provided by the Reklamup team to the mediation configuration as waterfall ad source for your ad unit.
 
 ![enter image description here](https://github.com/reklamuprepo/reklamup-admob-adapter/raw/main/assets/waterfall_ad_source.png)
