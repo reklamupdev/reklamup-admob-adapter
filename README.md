@@ -35,7 +35,7 @@ repositories {<br />
 dependencies {<br />
 &nbsp;&nbsp;&nbsp;&nbsp;implementation fileTree(dir:  'libs', include:  ['*.jar'])<br />
 &nbsp;&nbsp;&nbsp;&nbsp;implementation 'com.google.android.gms:play-services-ads:21.4.0'<br />
-&nbsp;&nbsp;&nbsp;&nbsp;**implementation 'com.reklamup:admanager-adapter:1.0.3'**<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;**implementation 'com.reklamup:admanager-adapter:1.0.4'**<br /> 
 }<br />
 // ...
 
