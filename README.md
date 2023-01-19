@@ -74,6 +74,11 @@ You can add each placement as **custom event**  as shown in the figure below.
 
 **Parameter** : Reklamup placement ids for each floor price provided by the reklamup team
 
+## Unity Platform
+
+If you are using Unity platorm for developing the app/game, you can use the unity package file located in the <a href="https://github.com/reklamupdev/reklamup-admob-adapter/tree/main/unity_packages">unity-packages</a> folder to include reklamup adapters in your app/game.<br/>
+
+
 ## FAQ
 
 You can send email. [ReklamUP](mailto:dev@reklamup.com?subject=Reklamup%20Admob%20Adapter%20Android)<br/>
